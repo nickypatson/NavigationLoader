@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testLoading/LoadingView.swift"
+            timestampString = "520844078.141149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "show()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testLoading.LoadingView.(show in _9F04D2899A8F25ECA62034E28BD9BE10) () -&gt; ()"
+                  moduleName = "testLoading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicky/Documents/Testing%20Apps/testLoading/testLoading/LoadingView.swift"
+                  timestampString = "520860928.880933"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testLoading.LoadingView.(show in _9F04D2899A8F25ECA62034E28BD9BE10) () -&gt; ()"
+                  moduleName = "testLoading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicky/Documents/Testing%20Apps/testLoading/testLoading/LoadingView.swift"
+                  timestampString = "520860928.884824"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "171">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
