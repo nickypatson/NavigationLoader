@@ -1,3 +1,3 @@
-graident uicontrol slider 
+Navaigation bar loader 
 
 ![Alt text](/sample.gif?raw=true "Optional Title")
