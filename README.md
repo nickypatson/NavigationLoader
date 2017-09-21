@@ -1,6 +1,5 @@
 Navaigation bar loader 
 
-![Alt text](/sample.gif?raw=true "Optional Title")
 
 ## Requirements
 
@@ -9,3 +8,8 @@ Navaigation bar loader
 * XCode 9
 * iOS 8.0 (Min SDK)
 ```
+## Screenshot
+
+![Alt text](/sample.gif?raw=true "Optional Title")
+
+
