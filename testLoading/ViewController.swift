@@ -10,8 +10,6 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet weak var viewLoading: UIView!
-    
     let loadingBar: LoadingView = LoadingView()
     
     override func viewDidLoad() {

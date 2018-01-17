@@ -129,6 +129,7 @@
 				TargetAttributes = {
 					80E2B4651F0A10B2007701B7 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 3N3C88D973;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
@@ -359,6 +360,7 @@
 			baseConfigurationReference = 4C557F4BA57FDE280DAF6B6A /* Pods-testLoading.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3N3C88D973;
 				INFOPLIST_FILE = testLoading/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.nickypatson.testLoading;
@@ -373,6 +375,7 @@
 			baseConfigurationReference = F682FE265435AF74FAEA6C41 /* Pods-testLoading.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3N3C88D973;
 				INFOPLIST_FILE = testLoading/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.nickypatson.testLoading;
