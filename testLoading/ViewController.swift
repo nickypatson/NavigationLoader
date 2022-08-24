@@ -9,6 +9,13 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    class ViewController: UIViewController {
+        
+        
+        class ViewController: UIViewController {
+
+class ViewController: UIViewController {
 
     let loadingBar: LoadingView = LoadingView()
     
